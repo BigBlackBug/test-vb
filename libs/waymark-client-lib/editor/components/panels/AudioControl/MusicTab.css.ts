@@ -1,0 +1,10 @@
+import "../../libs/waymark-client-lib/editor/components/panels/AudioControl/MusicTab.css.ts.vanilla.css!=!../../../../../../node_modules/@vanilla-extract/webpack-plugin/virtualFileLoader/dist/vanilla-extract-webpack-plugin-virtualFileLoader.cjs.js?{\"fileName\":\"../../libs/waymark-client-lib/editor/components/panels/AudioControl/MusicTab.css.ts.vanilla.css\",\"source\":\"Ll8xc3Jpc2JsMCB7CiAgc3Ryb2tlLXdpZHRoOiAyOwp9Ci5fMXNyaXNibDEgewogIG1hcmdpbi1ib3R0b206IDE4cHg7Cn0KLl8xc3Jpc2JsMiB7CiAgZGlzcGxheTogZmxleDsKICBmbGV4LWRpcmVjdGlvbjogY29sdW1uOwogIGdhcDogMTZweDsKICBtYXJnaW46IDI0cHggMDsKfQouXzFzcmlzYmwzIHsKICBtYXJnaW46IDI0cHggMCAxNnB4Owp9Ci5fMXNyaXNibDQgewogIG1hcmdpbi1ib3R0b206IDE2cHg7Cn0KLl8xc3Jpc2JsNSB7CiAgbWFyZ2luLWJvdHRvbTogMjBweDsKfQouXzFzcmlzYmw2IHsKICBtYXJnaW4tdG9wOiAzNXB4Owp9Ci5fMXNyaXNibDcgewogIG1hcmdpbjogMDsKfQouXzFzcmlzYmw4IHsKICBtYXJnaW46IDIwcHggMCAzNXB4Owp9\"}!../../../../../../node_modules/@vanilla-extract/webpack-plugin/extracted.js"
+export var MusicIcon = '_1srisbl0';
+export var MusicOptionsHeader = '_1srisbl4';
+export var MusicPreview = '_1srisbl1';
+export var MusicSection = '_1srisbl6';
+export var MusicSectionButton = '_1srisbl7';
+export var MusicSectionContentsWrapper = '_1srisbl8';
+export var RecommendedMusicHeader = '_1srisbl5';
+export var VoiceOverVolumeSlider = '_1srisbl3';
+export var VolumeSlidersContainer = '_1srisbl2';

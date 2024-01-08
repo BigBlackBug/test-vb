@@ -1,0 +1,3 @@
+import "../../libs/waymark-client-lib/app/components/BrandsModal/BrandsModalHeader.css.ts.vanilla.css!=!../../../../../node_modules/@vanilla-extract/webpack-plugin/virtualFileLoader/dist/vanilla-extract-webpack-plugin-virtualFileLoader.cjs.js?{\"fileName\":\"../../libs/waymark-client-lib/app/components/BrandsModal/BrandsModalHeader.css.ts.vanilla.css\",\"source\":\"Ll8xMjNxenkwMCB7CiAgbWFyZ2luLWJvdHRvbTogMTJweCAhaW1wb3J0YW50Owp9Ci5fMTIzcXp5MDEgewogIG92ZXJmbG93LXdyYXA6IGFueXdoZXJlOwp9\"}!../../../../../node_modules/@vanilla-extract/webpack-plugin/extracted.js"
+export var modalHeading = '_123qzy00';
+export var searchURL = '_123qzy01';

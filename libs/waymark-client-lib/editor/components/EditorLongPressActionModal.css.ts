@@ -1,0 +1,3 @@
+import "../../libs/waymark-client-lib/editor/components/EditorLongPressActionModal.css.ts.vanilla.css!=!../../../../node_modules/@vanilla-extract/webpack-plugin/virtualFileLoader/dist/vanilla-extract-webpack-plugin-virtualFileLoader.cjs.js?{\"fileName\":\"../../libs/waymark-client-lib/editor/components/EditorLongPressActionModal.css.ts.vanilla.css\",\"source\":\"Ll8xeHJpbTdtMCB7CiAgZGlzcGxheTogZmxleDsKICBhbGlnbi1pdGVtczogY2VudGVyOwogIGp1c3RpZnktY29udGVudDogc3BhY2UtYmV0d2VlbjsKfQouXzF4cmltN20xIHsKICB3aWR0aDogMTAwJTsKICBtYXJnaW4tdG9wOiAxMnB4Owp9Ci5fMXhyaW03bTE6Zmlyc3Qtb2YtdHlwZSB7CiAgbWFyZ2luLXRvcDogMDsKfQ==\"}!../../../../node_modules/@vanilla-extract/webpack-plugin/extracted.js"
+export var ActionModalButton = '_1xrim7m1';
+export var ActionModalTitle = '_1xrim7m0';

@@ -1,0 +1,2 @@
+import "../../libs/waymark-client-lib/editor/components/SaveFontToLibraryButton.css.ts.vanilla.css!=!../../../../node_modules/@vanilla-extract/webpack-plugin/virtualFileLoader/dist/vanilla-extract-webpack-plugin-virtualFileLoader.cjs.js?{\"fileName\":\"../../libs/waymark-client-lib/editor/components/SaveFontToLibraryButton.css.ts.vanilla.css\",\"source\":\"Ll8xZjJvcDQ2MCB7CiAgd2lkdGg6IDMycHg7CiAgaGVpZ2h0OiBhdXRvOwp9\"}!../../../../node_modules/@vanilla-extract/webpack-plugin/extracted.js"
+export var HeartIcon = '_1f2op460';

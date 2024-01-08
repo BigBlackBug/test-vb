@@ -1,0 +1,2 @@
+import "../../libs/waymark-client-lib/editor/components/panels/AudioControl/SelectedAudioAssetPreview.css.ts.vanilla.css!=!../../../../../../node_modules/@vanilla-extract/webpack-plugin/virtualFileLoader/dist/vanilla-extract-webpack-plugin-virtualFileLoader.cjs.js?{\"fileName\":\"../../libs/waymark-client-lib/editor/components/panels/AudioControl/SelectedAudioAssetPreview.css.ts.vanilla.css\",\"source\":\"Ll8xcHIxNTd1MCB7CiAgc3Ryb2tlLXdpZHRoOiAyOwp9\"}!../../../../../../node_modules/@vanilla-extract/webpack-plugin/extracted.js"
+export var VoiceIcon = '_1pr157u0';

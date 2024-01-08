@@ -1,0 +1,2 @@
+import "../../libs/waymark-client-lib/editor/components/EditorCompleteVideoConfirmationModal.css.ts.vanilla.css!=!../../../../node_modules/@vanilla-extract/webpack-plugin/virtualFileLoader/dist/vanilla-extract-webpack-plugin-virtualFileLoader.cjs.js?{\"fileName\":\"../../libs/waymark-client-lib/editor/components/EditorCompleteVideoConfirmationModal.css.ts.vanilla.css\",\"source\":\"Ll8xa3IyOWs3MCB7CiAgd2lkdGg6IDEwMCU7Cn0=\"}!../../../../node_modules/@vanilla-extract/webpack-plugin/extracted.js"
+export var confirmButton = '_1kr29k70';

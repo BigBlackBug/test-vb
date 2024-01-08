@@ -1,0 +1,4 @@
+import "../../libs/waymark-client-lib/app/components/StockImageView/StockImageSearchResultList.css.ts.vanilla.css!=!../../../../../node_modules/@vanilla-extract/webpack-plugin/virtualFileLoader/dist/vanilla-extract-webpack-plugin-virtualFileLoader.cjs.js?{\"fileName\":\"../../libs/waymark-client-lib/app/components/StockImageView/StockImageSearchResultList.css.ts.vanilla.css\",\"source\":\"Ll8xNWgzcnFoMCB7CiAgbWFyZ2luLXRvcDogMXJlbTsKICBkaXNwbGF5OiBncmlkOwogIGdyaWQtZ2FwOiAxMnB4OwogIGdyaWQtdGVtcGxhdGUtY29sdW1uczogMWZyIDFmcjsKICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjsKICBhbGlnbi1pdGVtczogY2VudGVyOwogIGxpc3Qtc3R5bGU6IG5vbmU7CiAgcGFkZGluZzogMDsKfQouXzE1aDNycWgxIHsKICBkaXNwbGF5OiBibG9jayAhaW1wb3J0YW50OwogIG1hcmdpbjogNDhweCBhdXRvOwogIHdpZHRoOiA3MnB4Owp9\"}!../../../../../node_modules/@vanilla-extract/webpack-plugin/extracted.js"
+export var ITEM_TRANSITION_DURATION = 300;
+export var SearchResultGrid = '_15h3rqh0';
+export var SearchResultLoadingIndicator = '_15h3rqh1';

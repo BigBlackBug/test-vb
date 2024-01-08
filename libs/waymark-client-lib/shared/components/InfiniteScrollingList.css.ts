@@ -1,0 +1,2 @@
+import "../../libs/waymark-client-lib/shared/components/InfiniteScrollingList.css.ts.vanilla.css!=!../../../../node_modules/@vanilla-extract/webpack-plugin/virtualFileLoader/dist/vanilla-extract-webpack-plugin-virtualFileLoader.cjs.js?{\"fileName\":\"../../libs/waymark-client-lib/shared/components/InfiniteScrollingList.css.ts.vanilla.css\",\"source\":\"LnU5czk5aTAgewogIHdpZHRoOiAxMDAlOwp9\"}!../../../../node_modules/@vanilla-extract/webpack-plugin/extracted.js"
+export var InfiniteScrollTrigger = 'u9s99i0';
